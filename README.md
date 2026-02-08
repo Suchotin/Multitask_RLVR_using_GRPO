@@ -10,6 +10,12 @@
 Экспериментальная часть включает сравнение нескольких стратегий обучения: моделей, дообученных GRPO на отдельных задачах, модели совместного мультизадачного обучения, а также моделей, полученных путём объединения (merge) адаптеров, обученных на разных задачах независимо. Оценка качества проводится на независимых бенчмарках, включая GSM8K, HumanEval, ARC-Challenge, HellaSwag и Spider, что позволяет анализировать как целевые улучшения, так и перенос между доменами. Дополнительно исследуется динамика обучения, стабильность reward’ов и характер ошибок, допускаемых моделью до и после применения RLVR.
 
 # Обучающие кривые
+- **License:** apache-2.0
+- **Finetuned from model :** unsloth/qwen2.5-7b-instruct-bnb-4bit
+
+This qwen2 model was trained 2x faster with [Unsloth](https://github.com/unslothai/unsloth)
+
+[<img src="https://raw.githubusercontent.com/unslothai/unsloth/main/images/unsloth%20made%20with%20love.png" width="200"/>](https://github.com/unslothai/unsloth)
 ### Математика
 <img width="606" height="380" alt="image" src="https://github.com/user-attachments/assets/1757dd6d-5764-4ebc-b80f-566bf6772568" />
 
