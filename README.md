@@ -20,4 +20,14 @@
 <img width="610" height="376" alt="image" src="https://github.com/user-attachments/assets/c99d1d00-3a99-445a-859a-1e75f2c471ea" />
 
 ### Multitask
-<img width="696" height="457" alt="image" src="https://github.com/user-attachments/assets/56f7855f-df1d-4094-b1a8-9b75e4aa7570" />
+<img width="696" height="457" alt="image" src="https://github.com/user-attachments/assets/56f7855f-df1d-4094-b1a8-9b75e4aa7570" /> \
+
+# Бенчмарки
+| Model             | GSM8K | MATH  | HumanEval | MBPP_instruct | ARC_challenge | HellaSwag   | Spider(SQL) |
+| :---------------: | :---: | :---: | :-------: | :-----------: | :-----------: | :---------: | :---------: |
+| `baseline`        | 0.79  | 0.13  | 0.80      | 0.73           | 0.44          | 0.50        | 0.15        |
+| `grpo_math`       | 🟢 0.84  | 0.12  | 0.79      | ???           | 0.45          | 0.50        |             |
+| `grpo_sql`        | 🟢 0.86  | 0.13  | 0.80      | ???           | 0.43          | 0.50        | 🟢 0.76     |
+| `grpo_python`     | 🟢 0.86  | 0.12  | 0.80      | 0.735           | 0.43          | 0.50        | 🟢 0.46     |
+| `grpo_multitask`  | 🟢 0.84  | 0.12  | 0.80      | 0.735         | 0.44          | 0.50        | 🟢 0.48     |
+| `grpo_LoRA_merge` | 
