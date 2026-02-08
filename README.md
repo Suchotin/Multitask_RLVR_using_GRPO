@@ -11,7 +11,7 @@
 
 # Обучающие кривые
 - **License:** apache-2.0
-- **Finetuned from model :** unsloth/qwen2.5-7b-instruct-bnb-4bit
+- **Finetuned from model :** unsloth/qwen2.5-coder-7b-instruct-bnb-4bit
 
 This qwen2 model was trained 2x faster with [Unsloth](https://github.com/unslothai/unsloth)
 
