@@ -16,20 +16,24 @@
 This qwen2 model was trained 2x faster with [Unsloth](https://github.com/unslothai/unsloth)
 
 [<img src="https://raw.githubusercontent.com/unslothai/unsloth/main/images/unsloth%20made%20with%20love.png" width="200"/>](https://github.com/unslothai/unsloth)
+
+---
+
 <img width="1611" height="770" alt="Screenshot 2026-02-09 at 04 26 30" src="https://github.com/user-attachments/assets/c4ab1cb1-d6da-4db8-b2cf-af2d914db402" />
+
+---
 
 <img width="1611" height="770" alt="Screenshot 2026-02-09 at 04 26 48" src="https://github.com/user-attachments/assets/e1a1af07-c0b0-4c6f-99ee-90bb5c32121f" />
 
+---
+
 <img width="1611" height="770" alt="Screenshot 2026-02-09 at 04 27 04" src="https://github.com/user-attachments/assets/5a1277df-a5c2-4f4c-a053-90a816c0a5e6" />
+
+---
 
 <img width="1611" height="770" alt="Screenshot 2026-02-09 at 04 27 15" src="https://github.com/user-attachments/assets/95a80a9e-933b-44f2-9ffa-6fe260a4085d" />
 
+---
 # Бенчмарки
-| Model             | GSM8K | MATH  | HumanEval | MBPP_instruct | ARC_challenge | HellaSwag   | Spider(SQL) |
-| :---------------: | :---: | :---: | :-------: | :-----------: | :-----------: | :---------: | :---------: |
-| `baseline`        | 0.79  | 0.13  | 0.80      | 0.73           | 0.44          | 0.50        | 0.15        |
-| `grpo_math`       | 🟢 0.84  | 0.12  | 0.79      | ???           | 0.45          | 0.50        |           |
-| `grpo_sql`        | 🟢 0.86  | 0.13  | 0.80      | 0.75          | 0.43          | 0.50        | 🟢 0.76     |
-| `grpo_python`     | 🟢 0.86  | 0.12  | 0.80      | 0.74          | 0.43          | 0.50        | 🟢 0.46     |
-| `grpo_multitask`  | 🟢 0.85  | 0.13  | 0.80      | 0.74         | 0.45          | 0.50        | 🟢 0.80     |
-| `grpo_LoRA_merge` | 🟢 0.84  | 0.13  | 0.80      | 0.74         | 0.44          | 0.50        | 🟢 0.48     | 
+
+<img width="1583" height="470" alt="Screenshot 2026-02-09 at 04 33 05" src="https://github.com/user-attachments/assets/4f8bea07-5573-453d-ae54-8effe4a29aff" />
