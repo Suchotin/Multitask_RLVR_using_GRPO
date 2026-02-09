@@ -16,16 +16,12 @@
 This qwen2 model was trained 2x faster with [Unsloth](https://github.com/unslothai/unsloth)
 
 [<img src="https://raw.githubusercontent.com/unslothai/unsloth/main/images/unsloth%20made%20with%20love.png" width="200"/>](https://github.com/unslothai/unsloth)
-### Математика
 <img width="1611" height="770" alt="Screenshot 2026-02-09 at 04 26 30" src="https://github.com/user-attachments/assets/c4ab1cb1-d6da-4db8-b2cf-af2d914db402" />
 
-### Text2SQL
 <img width="1611" height="770" alt="Screenshot 2026-02-09 at 04 26 48" src="https://github.com/user-attachments/assets/e1a1af07-c0b0-4c6f-99ee-90bb5c32121f" />
 
-### Verifiable Python
 <img width="1611" height="770" alt="Screenshot 2026-02-09 at 04 27 04" src="https://github.com/user-attachments/assets/5a1277df-a5c2-4f4c-a053-90a816c0a5e6" />
 
-### Multitask
 <img width="1611" height="770" alt="Screenshot 2026-02-09 at 04 27 15" src="https://github.com/user-attachments/assets/95a80a9e-933b-44f2-9ffa-6fe260a4085d" />
 
 # Бенчмарки
